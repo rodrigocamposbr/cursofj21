@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/rodrigocamposdf/cursofj21.git
+vi .gitignore
+git add --all
+git commit -m 'include files'
+git push origin master
